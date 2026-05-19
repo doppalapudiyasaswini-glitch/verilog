@@ -1,0 +1,11 @@
+Half Subtractor
+
+A Half Subtractor is a combinational logic circuit used to subtract two single-bit binary numbers. 
+It has two inputs (A and B) and produces two outputs: Difference and Borrow. 
+The Difference output is generated using the XOR operation, while the Borrow output is generated using NOT and AND operations.
+
+Full Subtractor
+
+A Full Subtractor is a combinational logic circuit used to subtract three binary bits, 
+including the borrow input from the previous stage. It has three inputs (A, B, and Bin) and produces two outputs: Difference and Borrow Out.
+Full Subtractors are widely used in digital systems and arithmetic operations
